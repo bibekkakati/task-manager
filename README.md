@@ -16,3 +16,7 @@ A task management app to help you organize and manage your day-to-day. You can s
  - Dart
  - BLoC Pattern
  - SQLite
+
+![1](/Mockup/1.png) ![2](/Mockup/2.png)
+![3](/Mockup/3.png) ![4](/Mockup/4.png)
+![5](/Mockup/5.png)
