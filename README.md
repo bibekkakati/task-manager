@@ -17,6 +17,6 @@ A task management app to help you organize and manage your day-to-day. You can s
  - BLoC Pattern
  - SQLite
 
-![1](/Mockup/1.png =368x768) ![2](/Mockup/2.png =368x768)
-![3](/Mockup/3.png =368x768) ![4](/Mockup/4.png =368x768)
-![5](/Mockup/5.png =368x768)
+![1](/Mockup/1.png =300x) ![2](/Mockup/2.png =300x)
+![3](/Mockup/3.png =300x) ![4](/Mockup/4.png =300x)
+![5](/Mockup/5.png =300x)
