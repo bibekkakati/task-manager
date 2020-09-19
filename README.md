@@ -16,6 +16,8 @@ A task management app to help you organize and manage your day-to-day. You can s
  - Dart
  - BLoC Pattern
  - SQLite
+ 
+[Download APK](https://drive.google.com/file/d/11TyMv1UvrHC0ziEQsLIOnPrQvpSnBN-v/view?usp=sharing)
 
 ### Screenshots:
 
