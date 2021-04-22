@@ -1,4 +1,4 @@
-# Task Manager App
+## Task Manager App
 
 A task management app to help you organize and manage your day-to-day. You can set reminders for your task to increase your productivity and focus on what matters.
 
