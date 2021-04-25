@@ -21,6 +21,12 @@ A task management app to help you organize and manage your day-to-day. You can s
 
 ### Screenshots:
 
-![1](/Mockup/1.png) ![2](/Mockup/2.png)
-![3](/Mockup/3.png) ![4](/Mockup/4.png)
-![5](/Mockup/5.png)
+<p align="center">
+    <img width="260" src="/mockups/1.png">
+    <img width="260" src="/mockups/2.png">
+    <img width="260" src="/mockups/3.png">
+</p>
+<p align="center">
+    <img width="260" src="/mockups/4.png">
+    <img width="260" src="/mockups/5.png">
+</p>

@@ -56,6 +56,25 @@ class _TaskListState extends State<TaskList> {
         initialData: [],
         stream: _currentTaskBloc.streamCurrentTaskList,
         builder: (BuildContext context, AsyncSnapshot<List<Task>> snapshot) {
+          if (snapshot.data.length < 1) {
+            return Center(
+              child: Column(
+                mainAxisAlignment: MainAxisAlignment.center,
+                crossAxisAlignment: CrossAxisAlignment.center,
+                children: [
+                  Image.asset('assets/list.png'),
+                  Padding(padding: EdgeInsets.all(4.0)),
+                  Text(
+                    "You don't have any tasks!",
+                    style: TextStyle(
+                        color: Colors.black26,
+                        fontSize: 18.0,
+                        fontWeight: FontWeight.w500),
+                  ),
+                ],
+              ),
+            );
+          }
           return ListView.builder(
             itemCount: snapshot.data.length,
             itemBuilder: (context, index) {
